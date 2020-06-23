@@ -1,0 +1,40 @@
+{
+  "entidade": [
+    {
+      "id": 1,
+      "areagovernativaid": 3,
+      "entidade": 1
+    },
+    {
+      "id": 2,
+      "areagovernativaid": 3,
+      "entidade": 2
+    }
+  ],
+  "governativaList": [
+    {
+      "id": 1,
+      "titulo": "area governativa 1",
+      "descricao": "area governativa 1",
+      "estado": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Titulo 2",
+      "descricao": "area governativa 2",
+      "estado": 1
+    },
+    {
+      "id": 3,
+      "titulo": "Titulo 3",
+      "descricao": "area governativa 2",
+      "estado": 1
+    },
+    {
+      "id": 4,
+      "titulo": "Titulo 4",
+      "descricao": "area governativa 4",
+      "estado": 1
+    }
+  ]
+}
